@@ -15,3 +15,26 @@ Astra is a modern, fully responsive website built with a powerful tech stack. Th
 - **Shadcn UI**: For UI components.
 - **Magic UI**: For UI components.
 - **Clerk**: For user authentication.
+
+## Quick Start
+
+### Prerequisites
+Make sure that you have installed
+- Node.js
+- Git
+- npm / yarn / pnpm / bun
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/ItisSubham/Astra_AI
+   cd Astra_AI
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+4. Open your browser and navigate to http://localhost:3000 to see the website in action.
