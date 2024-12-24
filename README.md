@@ -14,7 +14,6 @@ Astra is a modern, fully responsive website built with a powerful tech stack. Th
 - **TailwindCSS**: For styling with utility-first CSS.
 - **Shadcn UI**: For UI components.
 - **Magic UI**: For UI components.
-- **Clerk**: For user authentication.
 
 ## Quick Start
 
