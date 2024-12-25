@@ -1,15 +1,32 @@
 <h1 align="start">
-  🌟 Astra - AI Powered Website Builder 🌟
+  🚀 Astra - The Ultimate SaaS Landing Page Template
 </h1>
 
-![Header](./og-image.png)
+![Header](./astra.png)
 
-## 🚀 Introduction
+## ✨ Key Features:
 
-Astra is a modern, fully responsive website built using a cutting-edge tech stack. This project demonstrates:
-✨ Next.js for server-side rendering.
-🎨 TailwindCSS for sleek and responsive styling.
-🖌 shadcn UI for elegant components.
+⚡ Blazing-Fast & Responsive Design
+
+🎨 Modern UI/UX with Customization Options
+
+📈 Built for High Conversion Rates
+
+🛠 Easy Integration with Popular Tools
+
+## 💼 Perfect For:
+
+🌐 Startups & SaaS Businesses
+
+💻 Tech Companies & Agencies
+
+## 🔥 Why Choose Astra?
+
+📦 Ready-to-Deploy Solution
+
+🌟 Clean Code & Developer-Friendly
+
+🚀 SEO & Performance Optimized
 
 ## 🛠 Tech Stack
 
@@ -47,4 +64,4 @@ Make sure that you have installed
 
 ---
 
-  🔥 Happy Building! 🚀
+  ✨ Launch Your SaaS Idea with Astra Today!
