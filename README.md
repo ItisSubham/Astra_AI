@@ -46,7 +46,7 @@ Make sure that you have installed
 1. 📂 Clone the Repository
 
    ```bash
-   git clone https://github.com/ItisSubham/Astra_AI
+   git clone https://github.com/ItisSubham/Astra_AI.git
    cd Astra_AI
    ```
 2. 📥 Install Dependencies
